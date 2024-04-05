@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @denisdelaki
-- 👀 I’m interested in ... Reactjs, Tailwindcss, and Rails
-- 🌱 I’m currently learning ...C#
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m proficient in ... Reactjs,Angular, Tailwindcss,Bootstrap, Typescript, and Rails
+- 🌱 I’m currently learning ... .NET
+- 💞️ I’m looking to collaborate on ... frontend developements
 - 📫 How to reach me ... email denisdelaki@gmail.com
 
 <!---
